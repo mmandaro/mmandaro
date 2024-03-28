@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mmandaro
-- 🤔: I am pursuing my B.S. in Computer Science
-- 👀 I’m interested in building my technical skills
-- 🌱 I’m currently learning and building experience using Python and JAVA
+- I am a Computer Science Graduate from WGU.
+- My goal is to get a little bit better everyday!
 
 <!---
 mmandaro/mmandaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
